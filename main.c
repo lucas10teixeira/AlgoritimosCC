@@ -1,10 +1,11 @@
-/******************************************************************************
+/*
+* Programa: main.c
+* Descrição: Algoritmo que lê uma quantidade de tempo em minutos e escreve o tempo equivalente em
+segundos na tela.
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
+* Autor: Lucas Teixeira
 
-*******************************************************************************/
+*/
 
 #include <stdio.h>
 
